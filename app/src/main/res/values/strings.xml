@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sport Info</string>
+
+    <string name="title_section1">Welcome</string>
+    <string name="title_section2">Activities</string>
+    <string name="title_section3">Calendar</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
